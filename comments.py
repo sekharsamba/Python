@@ -15,6 +15,8 @@ There are two types of comments in python
 print("singel Line comment")
 
 
-# Multiple line comment
+'''
+Multiple line comment
+'''
 
 print("Multiple line Coomets")
